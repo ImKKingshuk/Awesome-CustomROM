@@ -1,6 +1,6 @@
 # Awesome-CustomROM
 
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/style.css">
 
 <!-- Contribution Format -->
 <!-- |    meow    |    meow    |        meow        |  meow   |  meow  |            meow            | -->
