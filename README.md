@@ -62,3 +62,14 @@
 | :---------------------------------------------------: | :-----------: | :----------------: | :---------------------------: | :-----------------------------------: | :-------------------------------------: |
 | <img src="Icons/xiaomieu.png" width="50" height="50"> | **Xiaomi.EU** |       Active       | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
 |                         meow                          |     meow      |        meow        |             meow              |                 meow                  |                  meow                   |
+
+## Recovery
+
+|                          Icon                           |            Recovery Name             |                         Github                         |                    Website                    |
+| :-----------------------------------------------------: | :----------------------------------: | :----------------------------------------------------: | :-------------------------------------------: |
+| <img src="Icons/orangefox.png" width="50" height="50">  |        **OrangeFox Recovery**        |         [Gitlab](https://gitlab.com/OrangeFox)         |     [Website](https://orangefox.download)     |
+| <img src="Icons/pitchblack.png" width="50" height="50"> |   **Pitch Black Recovery Project**   | [Github](https://github.com/PitchBlackRecoveryProject) |  [Website](https://pitchblackrecovery.com/)   |
+|  <img src="Icons/pterodon.png" width="50" height="50">  |        **Pterodon Recovery**         |     [Github](https://github.com/PterodonRecovery)      |
+|  <img src="Icons/redwolf.png" width="50" height="50">   |     **RedWolf Recovery Project**     |      [Github](https://github.com/RedWolfRecovery)      | [Website](https://redwolfrecovery.github.io/) |
+|    <img src="Icons/shrp.png" width="50" height="50">    | **SHRP – Sky Hawk Recovery Project** |           [Github](https://github.com/SHRP)            | [Website](https://skyhawkrecovery.github.io/) |
+|    <img src="Icons/twrp.png" width="50" height="50">    | **TWRP – Team Win Recovery Project** |          [Github](https://github.com/TeamWin)          |          [Website](https://twrp.me/)          |
