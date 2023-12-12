@@ -2,8 +2,8 @@
 
 Content Menu
 
-- [My Recommendations / Best ROMs](#my-recomandations-/-best-roms)
-- [ Android Open Source Project (AOSP)](<#android-open-source-project-(aosp)>)
+- [My Recommendations / Best ROMs](#my-recommendations--best-roms)
+- [ Android Open Source Project (AOSP)](#android-open-source-project-aosp)
 - [Xiaomi ROMs](#xiaomi-roms)
 - [Android GSI](#android-gsi)
 - [Recovery](#recovery)
