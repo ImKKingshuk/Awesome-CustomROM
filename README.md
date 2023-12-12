@@ -1,6 +1,6 @@
 # Awesome CustomROM
 
-- [## Android Open Source Project (AOSP)](#aosp)
+- [ Android Open Source Project (AOSP)](#aosp)
 - [Xiaomi ROMs](#xiaomi-roms)
 - [Android GSI](#android-gsi)
 - [Recovery](#recovery)
@@ -55,3 +55,10 @@
 |    <img src="Icons/elytraos.png" width="50" height="50">    |    **ElytraOS**     |       Active       |         [GitHub](https://github.com/elytraOS)         |         [GitHub](https://github.com/elytraOS)         |                          -                           |
 |   <img src="Icons/eternityos.png" width="50" height="50">   |   **Eternity OS**   |       Active       | [GitHub](https://github.com/EternityOS-Plus-Tiramisu) | [GitHub](https://github.com/EternityOS-Plus-Tiramisu) |                          -                           |
 |   <img src="Icons/evolutionx.png" width="50" height="50">   |   **Evolution X**   |       Active       |          [Website](https://evolution-x.org/)          |       [GitHub](https://github.com/Evolution-X)        |             [Download](https://evolution             |
+
+## Xiaomi ROMs
+
+|                         Icon                          |   ROM Name    | Development Status |            Website            |                Github                 |       ROM Download / Sourceforge        |
+| :---------------------------------------------------: | :-----------: | :----------------: | :---------------------------: | :-----------------------------------: | :-------------------------------------: |
+| <img src="Icons/xiaomieu.png" width="50" height="50"> | **Xiaomi.EU** |       Active       | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
+|                         meow                          |     meow      |        meow        |             meow              |                 meow                  |                  meow                   |
