@@ -144,11 +144,6 @@
 |        <img src="Icons/revengeos.png" width="50" height="50">         |            **Revenge OS**            |       Active       |                   [Not Available]                   |         [GitHub](https://github.com/RevengeOS)         |             [Not Available]             |
 |      <img src="Icons/risingtechoss.png" width="50" height="50">       | **Rising Tech Open Source Software** |       Active       |                   [Not Available]                   |       [GitHub](https://github.com/RisingTechOSS)       |             [Not Available]             |
 |         <img src="Icons/rohieos.png" width="50" height="50">          |             **RohieOS**              |       Active       |                   [Not Available]                   |          [GitHub](https://github.com/RohieOS)          |             [Not Available]             |
-|       <img src="Icons/scorpionrom.png" width="50" height="50">        |           **Scorpion ROM**           |       Active       |           [Web](https://scorpionrom.com/)           |        [GitHub](https://github.com/ScorpionRom)        |             [Not Available]             |
-|         <img src="Icons/serasaos.png" width="50" height="50">         |             **SerasaOS**             |       Active       |                   [Not Available]                   |         [GitHub](https://github.com/SerasaOS)          |             [Not Available]             |
-|       <img src="Icons/shapeshiftos.png" width="50" height="50">       |          **ShapeShift OS**           |       Active       |                   [Not Available]                   |       [GitHub](https://github.com/ShapeShiftOS)        |             [Not Available]             |
-|        <img src="Icons/skylineui.png" width="50" height="50">         |            **SkyLineUI**             |       Active       |                   [Not Available]                   |         [GitHub](https://github.com/SkylineUI)         |             [Not Available]             |
-|         <img src="Icons/slimroms.png" width="50" height="50">         |             **SlimRoms**             |       Active       |
 
 ## Xiaomi ROMs
 
