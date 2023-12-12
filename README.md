@@ -5,6 +5,24 @@
 - [Android GSI](#android-gsi)
 - [Recovery](#recovery)
 
+## My Recommendations / Best ROMs
+
+Here are some ROMs that I recommend or consider among the best based on various factors such as features, stability, and community support.
+
+|                             Icon                              |       ROM Name        | Development Status |                   Website                    |                    Github                    |         ROM Download / Sourceforge          |
+| :-----------------------------------------------------------: | :-------------------: | :----------------: | :------------------------------------------: | :------------------------------------------: | :-----------------------------------------: |
+|    <img src="Icons/lineageos.png" width="50" height="50">     |     **LineageOS**     |       Active       |      [Website](https://lineageos.org/)       |    [GitHub](https://github.com/LineageOS)    | [Download](https://download.lineageos.org/) |
+|   <img src="Icons/aospextended.png" width="50" height="50">   |   **AOSP Extended**   |       Active       |     [Web](https://www.aospextended.com/)     |  [GitHub](https://github.com/AospExtended)   |               [Not Available]               |
+| <img src="Icons/pixelexperience.png" width="50" height="50">  | **Pixel Experience**  |       Active       | [Web](https://download.pixelexperience.org/) | [GitHub](https://github.com/PixelExperience) |               [Not Available]               |
+|     <img src="Icons/risingos.png" width="50" height="50">     |     **RisingOS**      |       Active       |               [Not Available]                |  [GitHub](https://github.com/RisingTechOSS)  |               [Not Available]               |
+| <img src="Icons/afterlifeproject.png" width="50" height="50"> | **Afterlife Project** |       Active       |               [Not Available]                |   [GitHub](https://github.com/after-life)    |               [Not Available]               |
+|     <img src="Icons/xiaomieu.png" width="50" height="50">     |     **Xiaomi.EU**     |       Active       |        [Website](https://xiaomi.eu/)         |    [GitHub](https://github.com/xiaomieu)     |   [Download](https://download.xiaomi.eu/)   |
+|   <img src="Icons/nusantararom.png" width="50" height="50">   | **Nusantara Project** |       Active       |       [Web](https://nusantararom.org/)       |  [GitHub](https://github.com/Nusantara-ROM)  |               [Not Available]               |
+|     <img src="Icons/pixelos.png" width="50" height="50">      |      **PixelOS**      |       Active       |         [Web](https://pixelos.net/)          |  [GitHub](https://github.com/PixelOS-AOSP)   |               [Not Available]               |
+|    <img src="Icons/evolutionx.png" width="50" height="50">    |    **Evolution X**    |       Active       |       [Web](https://evolution-x.org/)        |   [GitHub](https://github.com/Evolution-X)   |               [Not Available]               |
+|     <img src="Icons/crdroid.png" width="50" height="50">      |      **CrDroid**      |       Active       |         [Web](https://crdroid.net/)          | [GitHub](https://github.com/crdroidandroid)  |               [Not Available]               |
+| <img src="Icons/paranoidandroid.png" width="50" height="50">  | **Paranoid Android**  |       Active       |           [Web](https://aospa.co/)           |      [GitHub](https://github.com/AOSPA)      |               [Not Available]               |
+
 ## Android Open Source Project (AOSP)
 
 | Icon | ROM Name | Development Status | Website | Github | ROM Download / Sourceforge |
