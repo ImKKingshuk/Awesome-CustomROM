@@ -1,37 +1,6 @@
 # Awesome-CustomROM
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-  }
-
-  th, td {
-    padding: 12px;
-    text-align: left;
-    border-bottom: 1px solid #ddd;
-  }
-
-  th {
-    background-color: #f2f2f2;
-  }
-
-  td img {
-    max-width: 40px;
-    max-height: 40px;
-    border-radius: 50%;
-  }
-
-  td a {
-    text-decoration: none;
-    color: #3498db;
-  }
-
-  td a:hover {
-    color: #e74c3c;
-  }
-</style>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <!-- Contribution Format -->
 <!-- |    meow    |    meow    |        meow        |  meow   |  meow  |            meow            | -->
