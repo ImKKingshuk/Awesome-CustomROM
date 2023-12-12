@@ -18,5 +18,5 @@
 
 |                         Icon                          |   ROM Name    | Development Status |            Website            |                Github                 |       ROM Download / Sourceforge        |
 | :---------------------------------------------------: | :-----------: | :----------------: | :---------------------------: | :-----------------------------------: | :-------------------------------------: |
-| <img src="Icons/xiaomieu.png" width="50" height="50"> | **LineageOS** |       Active       | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
+| <img src="Icons/xiaomieu.png" width="50" height="50"> | **Xiaomi.EU** |       Active       | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
 |                         meow                          |     meow      |        meow        |             meow              |                 meow                  |                  meow                   |
