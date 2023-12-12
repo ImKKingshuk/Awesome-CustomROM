@@ -1,6 +1,6 @@
 # Awesome-CustomROM
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :----------: | :------------: | :-----------: |
-|  git status  |   git status   |  git status   |
-|   git diff   |    git diff    |   git diff    |
+|    Icon    |  ROM Name  |   Status   | Website | Github | Download /Sourceforge |
+| :--------: | :--------: | :--------: | :-----: | ------ | --------------------- |
+| git status | git status | git status |  meow   | meow   |
+|  git diff  |  git diff  |  git diff  |  meow   | meow   |
