@@ -58,10 +58,19 @@
 
 ## Xiaomi ROMs
 
-|                         Icon                          |   ROM Name    | Development Status |            Website            |                Github                 |       ROM Download / Sourceforge        |
-| :---------------------------------------------------: | :-----------: | :----------------: | :---------------------------: | :-----------------------------------: | :-------------------------------------: |
-| <img src="Icons/xiaomieu.png" width="50" height="50"> | **Xiaomi.EU** |       Active       | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
-|                         meow                          |     meow      |        meow        |             meow              |                 meow                  |                  meow                   |
+|                           Icon                           |      ROM Name      | Development Status |                          Website                           |                Github                 |       ROM Download / Sourceforge        |
+| :------------------------------------------------------: | :----------------: | :----------------: | :--------------------------------------------------------: | :-----------------------------------: | :-------------------------------------: |
+|  <img src="Icons/xiaomieu.png" width="50" height="50">   |   **Xiaomi.EU**    |       Active       |               [Website](https://xiaomi.eu/)                | [GitHub](https://github.com/xiaomieu) | [Download](https://download.xiaomi.eu/) |
+|    <img src="Icons/abhix.png" width="50" height="50">    |   **Abhix MIUI**   |        meow        |         [Telegram](https://t.me/ROGEditionUPDATES)         |                 meow                  |                  meow                   |
+|  <img src="Icons/eliteroms.png" width="50" height="50">  | **MIUI EliteRoms** |        meow        |       [Telegram](https://t.me/EliteDevelopmentforMi)       |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-eu.png" width="50" height="50">   |    **MIUI EU**     |        meow        |            [Web](https://xiaomi.eu/community/)             |                 meow                  |                  meow                   |
+| <img src="Icons/miui-global.png" width="50" height="50"> |  **MIUI Global**   |        meow        |     [Web](https://c.mi.com/global/miuidownload/index)      |                 meow                  |                  meow                   |
+| <img src="Icons/miui-oneos.png" width="50" height="50">  |   **MIUI OneOS**   |        meow        |      [Web](https://sourceforge.net/projects/one-os/)       |                 meow                  |                  meow                   |
+|  <img src="Icons/miui-pro.png" width="50" height="50">   |    **MIUI Pro**    |        meow        |                [Web](https://miuipro.info/)                |                 meow                  |                  meow                   |
+| <img src="Icons/miui-reborn.png" width="50" height="50"> |  **MIUI Reborn**   |        meow        |            [Telegram](https://t.me/reborn_dll)             |                 meow                  |                  meow                   |
+| <img src="Icons/miui-revos.png" width="50" height="50">  |   **MIUI RevOS**   |        meow        | [Web](https://sourceforge.net/projects/revolutionos-miui/) |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-tr.png" width="50" height="50">   |    **MIUI TR**     |        meow        |      [Web](https://forum.miuitr.info/bolum/miuitr.5/)      |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-vn.png" width="50" height="50">   |    **MIUI VN**     |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
 
 ## Recovery
 
