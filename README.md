@@ -28,9 +28,6 @@ Here are some ROMs that I recommend, these are the best ones. Based on various f
 
 ## Android Open Source Project (AOSP)
 
-| Icon | ROM Name | Development Status | Website | Github | ROM Download / Sourceforge |
-| :--: | :------: | :----------------: | :-----: | :----: | :------------------------: |
-
 |                                 Icon                                  |               ROM Name               | Development Status |                       Website                       |                         Github                         |       ROM Download / Sourceforge        |
 | :-------------------------------------------------------------------: | :----------------------------------: | :----------------: | :-------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------: |
 |           <img src="Icons/aicp.png" width="50" height="50">           |               **AICP**               |       Active       |       [Website](https://dwnld.aicp-rom.com/)        |           [GitHub](https://github.com/AICP)            | [Download](https://dwnld.aicp-rom.com/) |
