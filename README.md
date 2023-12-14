@@ -215,6 +215,9 @@ Here are some ROMs that I recommend, these are the best ones. Based on various f
 |   <img src="Icons/miui-vn.png" width="50" height="50">   |     **MIUI Eris**      |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
 |   <img src="Icons/miui-vn.png" width="50" height="50">   |    **MIUI GoPlus**     |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
 |   <img src="Icons/miui-vn.png" width="50" height="50">   |    **MIUI WaveUI**     |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-vn.png" width="50" height="50">   |    **MIUI MicroUI**    |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-vn.png" width="50" height="50">   |      **MIUI AR**       |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
+|   <img src="Icons/miui-vn.png" width="50" height="50">   |   **MIUI OptimumOS**   |        meow        |     [Github](https://sourceforge.net/projects/miuivn/)     |                 meow                  |                  meow                   |
 
 ## Recovery
 
