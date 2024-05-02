@@ -23,9 +23,6 @@ Here are some ROMs that I recommend, these are the best ones. Based on various f
 |     <img src="Icons/xiaomieu.png" width="50" height="50">     |     **Xiaomi.EU**     |       Active       |        [Website](https://xiaomi.eu/)         |    [GitHub](https://github.com/xiaomieu)     | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/) |
 |   <img src="Icons/nusantararom.png" width="50" height="50">   | **Nusantara Project** |       Active       |       [Web](https://nusantararom.org/)       |  [GitHub](https://github.com/Nusantara-ROM)  |                                        Not Available                                        |
 |     <img src="Icons/pixelos.png" width="50" height="50">      |      **PixelOS**      |       Active       |         [Web](https://pixelos.net/)          |  [GitHub](https://github.com/PixelOS-AOSP)   |            [Download](https://sourceforge.net/projects/pixelos-releases/files/)             |
-|    <img src="Icons/evolutionx.png" width="50" height="50">    |    **Evolution X**    |       Active       |       [Web](https://evolution-x.org/)        |   [GitHub](https://github.com/Evolution-X)   |               [Download](https://sourceforge.net/projects/evolution-x/files/)               |
-|     <img src="Icons/crdroid.png" width="50" height="50">      |      **CrDroid**      |       Active       |         [Web](https://crdroid.net/)          | [GitHub](https://github.com/crdroidandroid)  |                          [Download](https://crdroid.net/downloads)                          |
-|     <img src="Icons/crdroid.png" width="50" height="50">      |  **Project Elixir**   |       Active       |         [Web](https://crdroid.net/)          | [GitHub](https://github.com/crdroidandroid)  |                          [Download](https://crdroid.net/downloads)                          |
 
 ## Android Open Source Project (AOSP)
 
