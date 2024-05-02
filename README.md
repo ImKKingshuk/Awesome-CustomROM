@@ -21,7 +21,7 @@ Here are some ROMs that I recommend, these are the best ones. Based on various f
 |  <img src="Icons/ProjectMatrixx.png" width="50" height="50">  |  **Project Matrixx**  |       Active       |         [Web](https://crdroid.net/)          | [GitHub](https://github.com/crdroidandroid)  |                   [Download](https://crdroid.net/downloads)                    |
 | <img src="Icons/AfterLifeProject.png" width="50" height="50"> | **Afterlife Project** |       Active       |                Not Available                 |   [GitHub](https://github.com/after-life)    | [Download](https://sourceforge.net/projects/afterlife-projects/files/release/) |
 
-| <img src="Icons/nusantararom.png" width="50" height="50"> | **Nusantara Project** | Active | [Web](https://nusantararom.org/) | [GitHub](https://github.com/Nusantara-ROM) | Not Available |
+| <img src="Icons/NusantaraProject.png" width="50" height="50"> | **Nusantara Project** | Active | [Web](https://nusantararom.org/) | [GitHub](https://github.com/Nusantara-ROM) | Not Available |
 | <img src="Icons/PixelOS.png" width="50" height="50"> | **PixelOS** | Active | [Web](https://pixelos.net/) | [GitHub](https://github.com/PixelOS-AOSP) | [Download](https://sourceforge.net/projects/pixelos-releases/files/) |
 | <img src="Icons/XiaomiEU.png" width="50" height="50"> | **Xiaomi.EU** | Active | [Website](https://xiaomi.eu/) | [GitHub](https://github.com/xiaomieu) | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/) |
 
