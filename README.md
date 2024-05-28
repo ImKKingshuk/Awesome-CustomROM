@@ -10,7 +10,7 @@ Content Menu
 
 ## My Recommendations / Best ROMs
 
-Here are some ROMs that I recommend, these are the best ones. Based on various factors such as features, stability, and community support.
+Here some ROMs that I recommend, these are the best ones. Based on various factors such as features, stability, and community support.
 
 |                                   Icon                                    |       ROM Name        | Development Status |                     Website                      |                                          Github                                           |                                 ROM Download / Sourceforge                                  |
 | :-----------------------------------------------------------------------: | :-------------------: | :----------------: | :----------------------------------------------: | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
