@@ -3,7 +3,7 @@
 Content Menu
 
 - [My Recommendations / Best ROMs](#my-recommendations--best-roms)
-- [Android Open Source Project (AOSP)](#android-open-source-project-aosp)
+- [Android Open Source Project (AOSP) ROMs](#android-open-source-project-aosp-roms)
 - [Xiaomi HyperOS / MIUI ROMs](#xiaomi-hyperos--miui-roms)
 - [Custom Recovery Projects](#custom-recovery-projects)
 
@@ -28,7 +28,7 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |           <img src="Icons/RisingOS.png" width="75" height="75">           |     **RisingOS**      |       Active       |                  Not Available                   |                        [GitHub](https://github.com/RisingTechOSS)                         |            [Download](https://sourceforge.net/projects/risingos-official/files/)            |
 |           <img src="Icons/XiaomiEU.png" width="75" height="75">           |     **Xiaomi.EU**     |       Active       |          [Website](https://xiaomi.eu/)           | [GitHub](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/) | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/) |
 
-## Android Open Source Project (AOSP)
+## Android Open Source Project (AOSP) ROMs
 
 |                                 Icon                                  |               ROM Name               | Development Status |                       Website                       |                         Github                         |                ROM Download / Sourceforge                |
 | :-------------------------------------------------------------------: | :----------------------------------: | :----------------: | :-------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: |
