@@ -5,7 +5,7 @@ Content Menu
 - [My Recommendations / Best ROMs](#my-recommendations--best-roms)
 - [Android Open Source Project (AOSP)](#android-open-source-project-aosp)
 - [Xiaomi ROMs](#xiaomi-roms)
-- [Recovery](#recovery)
+- [Custom Recovery Projects](#custom-recovery-projects)
 
 ## My Recommendations / Best ROMs
 
@@ -231,7 +231,7 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |           <img src="Icons/miui-vn.png" width="75" height="75">            |      **HyperOS AR**       |  [Not Available]   |                        [Not Available]                         |            [Not Available]            |                 [Not Available]                  |
 |           <img src="Icons/miui-vn.png" width="75" height="75">            |   **HyperOS OptimumOS**   |  [Not Available]   |                        [Not Available]                         |            [Not Available]            |                 [Not Available]                  |
 
-## Recovery
+## Custom Recovery Projects
 
 |                          Icon                           |            Recovery Name             |                         Github                         |                    Website                    |
 | :-----------------------------------------------------: | :----------------------------------: | :----------------------------------------------------: | :-------------------------------------------: |
