@@ -4,7 +4,7 @@ Content Menu
 
 - [My Recommendations / Best ROMs](#my-recommendations--best-roms)
 - [Android Open Source Project (AOSP)](#android-open-source-project-aosp)
-- [Xiaomi ROMs](#xiaomi-roms)
+- [Xiaomi HyperOS / MIUI ROMs](#xiaomi-hyperos--miui-roms)
 - [Custom Recovery Projects](#custom-recovery-projects)
 
 ## My Recommendations / Best ROMs
@@ -200,7 +200,7 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |         <img src="Icons/yaapaosp.png" width="75" height="75">         |            **YAAP AOSP**             |       Active       |          [GitHub](https://github.com/yaap)          |           [GitHub](https://github.com/yaap)            |                     [Not Available]                      |
 |          <img src="Icons/zeusos.png" width="75" height="75">          |              **ZeusOS**              |       Active       |        [GitHub](https://github.com/Zeus-OS)         |          [GitHub](https://github.com/Zeus-OS)          |                     [Not Available]                      |
 
-## Xiaomi ROMs
+## Xiaomi HyperOS / MIUI ROMs
 
 |                                   Icon                                    |         ROM Name          | Development Status |                            Website                             |                Github                 |            ROM Download / Sourceforge            |
 | :-----------------------------------------------------------------------: | :-----------------------: | :----------------: | :------------------------------------------------------------: | :-----------------------------------: | :----------------------------------------------: |
