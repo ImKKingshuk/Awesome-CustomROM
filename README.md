@@ -1,12 +1,11 @@
-# Awesome CustomROM
+<h1 align="center">Awesome CustomROM</h1>
 
 Content Menu
 
-- [Awesome CustomROM](#awesome-customrom)
-  - [My Recommendations / Best ROMs](#my-recommendations--best-roms)
-  - [Android Open Source Project (AOSP)](#android-open-source-project-aosp)
-  - [Xiaomi ROMs](#xiaomi-roms)
-  - [Recovery](#recovery)
+- [My Recommendations / Best ROMs](#my-recommendations--best-roms)
+- [Android Open Source Project (AOSP)](#android-open-source-project-aosp)
+- [Xiaomi ROMs](#xiaomi-roms)
+- [Recovery](#recovery)
 
 ## My Recommendations / Best ROMs
 
