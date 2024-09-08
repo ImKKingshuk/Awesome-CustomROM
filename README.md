@@ -256,4 +256,4 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 | :---------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
 |  <img src="Icons/Magisk.png" width="75" height="75">  |        **Magisk : The Magic Mask for Android**        | [Gitlab](https://github.com/topjohnwu/Magisk) | [Website](https://github.com/topjohnwu/Magisk) |
 | <img src="Icons/KernelSU.png" width="75" height="75"> | **KernelSU : Kernel Based Root Solution for Android** |  [Github](https://github.com/tiann/KernelSU)  |        [Website](https://kernelsu.org)         |
-| <img src="Icons/pterodon.png" width="75" height="75"> |                 **Pterodon Recovery**                 | [Github](https://github.com/PterodonRecovery) |
+|  <img src="Icons/APatch.png" width="75" height="75">  | **APatch : The Patching of Android Kernel & System**  |  [Github](https://github.com/bmax121/APatch)  |  [Website](https://github.com/bmax121/APatch)  |
