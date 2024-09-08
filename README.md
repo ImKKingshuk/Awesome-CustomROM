@@ -252,8 +252,8 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 
 ## Root / SuperUser Tools
 
-|                          Icon                           |                  Name                   |                    Github                     |                    Website                     |
-| :-----------------------------------------------------: | :-------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
-| <img src="Icons/orangefox.png" width="75" height="75">  | **Magisk : The Magic Mask for Android** | [Gitlab](https://github.com/topjohnwu/Magisk) | [Website](https://github.com/topjohnwu/Magisk) |
-| <img src="Icons/pitchblack.png" width="75" height="75"> |    **Pitch Black Recovery Project**     |  [Github](https://github.com/tiann/KernelSU)  |        [Website](https://kernelsu.org)         |
-|  <img src="Icons/pterodon.png" width="75" height="75">  |          **Pterodon Recovery**          | [Github](https://github.com/PterodonRecovery) |
+|                          Icon                           |                         Name                          |                    Github                     |                    Website                     |
+| :-----------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
+| <img src="Icons/orangefox.png" width="75" height="75">  |        **Magisk : The Magic Mask for Android**        | [Gitlab](https://github.com/topjohnwu/Magisk) | [Website](https://github.com/topjohnwu/Magisk) |
+| <img src="Icons/pitchblack.png" width="75" height="75"> | **KernelSU : Kernel Based Root Solution for Android** |  [Github](https://github.com/tiann/KernelSU)  |        [Website](https://kernelsu.org)         |
+|  <img src="Icons/pterodon.png" width="75" height="75">  |                 **Pterodon Recovery**                 | [Github](https://github.com/PterodonRecovery) |
