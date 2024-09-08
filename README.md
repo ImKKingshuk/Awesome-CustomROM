@@ -12,6 +12,7 @@
 - [Android Open Source Project (AOSP) ROMs](#android-open-source-project-aosp-roms)
 - [Xiaomi HyperOS / MIUI ROMs](#xiaomi-hyperos--miui-roms)
 - [Custom Recovery Projects](#custom-recovery-projects)
+- [Root / SuperUser Tools](#root--superuser-tools)
 
 ## My Recommendations / Best ROMs
 
@@ -248,3 +249,11 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |  <img src="Icons/redwolf.png" width="75" height="75">   |     **RedWolf Recovery Project**     |      [Github](https://github.com/RedWolfRecovery)      | [Website](https://redwolfrecovery.github.io/) |
 |    <img src="Icons/shrp.png" width="75" height="75">    | **SHRP – Sky Hawk Recovery Project** |           [Github](https://github.com/SHRP)            | [Website](https://skyhawkrecovery.github.io/) |
 |    <img src="Icons/twrp.png" width="75" height="75">    | **TWRP – Team Win Recovery Project** |          [Github](https://github.com/TeamWin)          |          [Website](https://twrp.me/)          |
+
+## Root / SuperUser Tools
+
+|                          Icon                           |               Name               |                         Github                         |                  Website                   |
+| :-----------------------------------------------------: | :------------------------------: | :----------------------------------------------------: | :----------------------------------------: |
+| <img src="Icons/orangefox.png" width="75" height="75">  |      **OrangeFox Recovery**      |     [Gitlab](https://github.com/topjohnwu/Magisk)      |   [Website](https://orangefox.download)    |
+| <img src="Icons/pitchblack.png" width="75" height="75"> | **Pitch Black Recovery Project** | [Github](https://github.com/PitchBlackRecoveryProject) | [Website](https://pitchblackrecovery.com/) |
+|  <img src="Icons/pterodon.png" width="75" height="75">  |      **Pterodon Recovery**       |     [Github](https://github.com/PterodonRecovery)      |
