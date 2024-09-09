@@ -1,6 +1,6 @@
 <h1 align="center">Awesome CustomROM</h1>
 
-<br> <br>
+<br><br>
 
 #### Also Visit: [Awesome-AndroidROM](https://github.com/ImKKingshuk/Awesome-AndroidROM) to dive into a collection of official Android ROMs from manufacturers.
 
@@ -41,6 +41,7 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |                                 Icon                                  |               ROM Name               | Development Status |                       Website                       |                         Github                         |                ROM Download / Sourceforge                |
 | :-------------------------------------------------------------------: | :----------------------------------: | :----------------: | :-------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------: |
 |           <img src="Icons/aicp.png" width="75" height="75">           |               **AICP**               |       Active       |       [Website](https://dwnld.aicp-rom.com/)        |           [GitHub](https://github.com/AICP)            |         [Download](https://dwnld.aicp-rom.com/)          |
+|          <img src="Icons/aimrom.png" width="75" height="75">          |             **AIM ROM**              |       Active       |        [Website](https://aimrom.github.io/)         |          [GitHub](https://github.com/AIMROM)           |          [Download](https://aimrom.github.io/)           |
 |          <img src="Icons/aimrom.png" width="75" height="75">          |             **AIM ROM**              |       Active       |        [Website](https://aimrom.github.io/)         |          [GitHub](https://github.com/AIMROM)           |          [Download](https://aimrom.github.io/)           |
 |        <img src="Icons/alphadroid.png" width="75" height="75">        |            **AlphaDroid**            |       Active       |   [GitHub](https://github.com/AlphaDroid-Project)   |    [GitHub](https://github.com/AlphaDroid-Project)     |                     [Not Available]                      |
 |        <img src="Icons/alrightos.png" width="75" height="75">         |            **AlrightOS**             |       Active       |          [Website](https://alrightos.xyz/)          | [GitHub](https://github.com/AlrightAndroid-Brokenlab)  |                     [Not Available]                      |
