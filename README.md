@@ -8,10 +8,33 @@
 
 ### Content Menu
 
+- [Recommendations / Best ROMs](#recommendations--best-roms)
 - [Android Open Source Project (AOSP) ROMs](#android-open-source-project-aosp-roms)
 - [Xiaomi HyperOS / MIUI ROMs](#xiaomi-hyperos--miui-roms)
 - [Custom Recovery Projects](#custom-recovery-projects)
 - [Root / SuperUser Tools](#root--superuser-tools)
+
+## Recommendations / Best ROMs
+
+Here some ROMs that I recommend, these are the best ones. Based on various factors such as features, stability, and community support.
+
+|                                   Icon                                   |       ROM Name        | Development Status |                     Website                      |                             Github                              |                                 ROM Download / Sourceforge                                  |
+| :----------------------------------------------------------------------: | :-------------------: | :----------------: | :----------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/177490021?s=200&v=4" > |      **HyperIN**      |       Active       |      [Website](https://hyperin.vercel.app/)      | [GitHub](https://github.com/HyperIN-The-Ultra-Pure-HyperOS-ROM) |                      [Download](https://hyperin.vercel.app/Downloads)                       |
+| <img src="https://avatars.githubusercontent.com/u/121661057?s=200&v=4" > |     **RisingOS**      |       Active       |                  Not Available                   |           [GitHub](https://github.com/RisingTechOSS)            |            [Download](https://sourceforge.net/projects/risingos-official/files/)            |
+| <img src="https://avatars.githubusercontent.com/u/114348751?s=200&v=4" > | **Afterlife Project** |       Active       |                  Not Available                   |         [GitHub](https://github.com/AfterLifePrjktAOSP)         |       [Download](https://sourceforge.net/projects/afterlife-projects/files/release/)        |
+| <img src="https://avatars.githubusercontent.com/u/144055806?s=200&v=4" > |  **Project Matrixx**  |       Active       |    [Website](https://www.projectmatrixx.org/)    |           [GitHub](https://github.com/ProjectMatrixx)           |                    [Download](https://www.projectmatrixx.org/downloads)                     |
+|  <img src="https://avatars.githubusercontent.com/u/1309360?s=200&v=4" >  |     **Xiaomi.EU**     |       Active       |          [Website](https://xiaomi.eu/)           |                         [Not Available]                         | [Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/) |
+| <img src="https://avatars.githubusercontent.com/u/60553657?s=200&v=4" >  | **Nusantara Project** |       Active       |       [Website](https://nusantararom.org/)       |           [GitHub](https://github.com/Nusantara-ROM)            |                        [Download](https://nusantararom.org/device/)                         |
+|  <img src="https://avatars.githubusercontent.com/u/9610671?s=200&v=4" >  |      **crDroid**      |       Active       |         [Website](https://crdroid.net/)          |           [GitHub](https://github.com/crdroidandroid)           |                          [Download](https://crdroid.net/downloads)                          |
+| <img src="https://avatars.githubusercontent.com/u/165590896?s=200&v=4" > |    **Evolution X**    |       Active       |       [Website](https://evolution-x.org/)        |            [GitHub](https://github.com/Evolution-X)             |                        [Download](https://evolution-x.org/download)                         |
+| <img src="https://avatars.githubusercontent.com/u/48847184?s=200&v=4" >  |    **GrapheneOS**     |       Active       |        [Website](https://grapheneos.org/)        |             [GitHub](https://github.com/GrapheneOS)             |                             [Download](https://grapheneos.org/)                             |
+| <img src="https://avatars.githubusercontent.com/u/24304779?s=200&v=4" >  |     **LineageOS**     |       Active       |        [Website](https://lineageos.org/)         |             [GitHub](https://github.com/LineageOS)              |                         [Download](https://download.lineageos.org/)                         |
+|  <img src="https://avatars.githubusercontent.com/u/5701347?s=200&v=4" >  | **Paranoid Android**  |       Active       |      [Website](https://paranoidandroid.co/)      |               [GitHub](https://github.com/AOSPA)                |                           [Download](https://paranoidandroid.co/)                           |
+| <img src="https://avatars.githubusercontent.com/u/82160282?s=200&v=4" >  |      **PixelOS**      |       Active       |         [Website](https://pixelos.net/)          |            [GitHub](https://github.com/PixelOS-AOSP)            |            [Download](https://sourceforge.net/projects/pixelos-releases/files/)             |
+| <img src="https://avatars.githubusercontent.com/u/159722889?s=200&v=4" > |    **SomethingOS**    |       Active       |        [Website](https://somethingos.com)        |            [GitHub](https://github.com/SomethingOS)             |                        [Download](https://somethingos.com/downloads)                        |
+| <img src="https://avatars.githubusercontent.com/u/38539471?s=200&v=4" >  | **Pixel Experience**  |    Discontinued    | [Website](https://download.pixelexperience.org/) |          [GitHub](https://github.com/PixelExperience)           |                      [Download](https://download.pixelexperience.org/)                      |
+| <img src="https://avatars.githubusercontent.com/u/92712572?s=200&v=4" >  |  **Project Elixir**   |    Discontinued    |     [Website](https://projectelixiros.com/)      |           [GitHub](https://github.com/Project-Elixir)           |                          [Download](https://projectelixiros.com/)                           |
 
 ## Android Open Source Project (AOSP) ROMs
 
