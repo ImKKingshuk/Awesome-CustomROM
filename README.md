@@ -212,19 +212,19 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 
 ## Custom Recovery Projects
 
-|                                          Icon                                          |            Recovery Name             |                         Github                         |                    Website                    |
-| :------------------------------------------------------------------------------------: | :----------------------------------: | :----------------------------------------------------: | :-------------------------------------------: |
-| <img src="https://gitlab.com/uploads/-/system/group/avatar/2810739/256.png?width=200"> |        **OrangeFox Recovery**        |         [Gitlab](https://gitlab.com/OrangeFox)         |     [Website](https://orangefox.download)     |
-|         <img src="https://avatars.githubusercontent.com/u/37493898?s=200&v=4">         |   **Pitch Black Recovery Project**   | [Github](https://github.com/PitchBlackRecoveryProject) |  [Website](https://pitchblackrecovery.com/)   |
-|         <img src="https://avatars.githubusercontent.com/u/67479316?s=200&v=4">         |        **Pterodon Recovery**         |     [Github](https://github.com/PterodonRecovery)      |
-|         <img src="https://avatars.githubusercontent.com/u/35895496?s=200&v=4">         |     **RedWolf Recovery Project**     |      [Github](https://github.com/RedWolfRecovery)      | [Website](https://redwolfrecovery.github.io/) |
-|         <img src="https://avatars.githubusercontent.com/u/66643114?s=200&v=4">         | **SHRP – Sky Hawk Recovery Project** |           [Github](https://github.com/SHRP)            | [Website](https://skyhawkrecovery.github.io/) |
-|                                  <img src="twrp.png">                                  | **TWRP – Team Win Recovery Project** |          [Github](https://github.com/TeamWin)          |          [Website](https://twrp.me/)          |
+|                                          Icon                                          |            Recovery Name             |                    Website                     |                         Github                         |                        Download                         |
+| :------------------------------------------------------------------------------------: | :----------------------------------: | :--------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------: |
+| <img src="https://gitlab.com/uploads/-/system/group/avatar/2810739/256.png?width=200"> |        **OrangeFox Recovery**        |     [Website](https://orangefox.download)      |         [Gitlab](https://gitlab.com/OrangeFox)         |   [Download](https://orangefox.download/device-list)    |
+|         <img src="https://avatars.githubusercontent.com/u/37493898?s=200&v=4">         |   **Pitch Black Recovery Project**   |   [Website](https://pitchblackrecovery.com/)   | [Github](https://github.com/PitchBlackRecoveryProject) |  [Download](https://pitchblackrecovery.com/#download)   |
+|         <img src="https://avatars.githubusercontent.com/u/67479316?s=200&v=4">         |        **Pterodon Recovery**         | [Website](https://pterodonrecovery.github.io/) |     [Github](https://github.com/PterodonRecovery)      | [Download](https://pterodonrecovery.github.io/download) |
+|         <img src="https://avatars.githubusercontent.com/u/35895496?s=200&v=4">         |     **RedWolf Recovery Project**     | [Website](https://redwolfrecovery.github.io/)  |      [Github](https://github.com/RedWolfRecovery)      | [Download](https://redwolfrecovery.github.io/downloads) |
+|         <img src="https://avatars.githubusercontent.com/u/66643114?s=200&v=4">         | **SHRP – Sky Hawk Recovery Project** | [Website](https://skyhawkrecovery.github.io/)  |           [Github](https://github.com/SHRP)            | [Download](https://skyhawkrecovery.github.io/downloads) |
+|                                  <img src="twrp.png">                                  | **TWRP – Team Win Recovery Project** |          [Website](https://twrp.me/)           |          [Github](https://github.com/TeamWin)          |          [Download](https://twrp.me/Devices/)           |
 
 ## Root / SuperUser Tools
 
-|           Icon           |                         Name                          |                    Github                     |                    Website                     |
-| :----------------------: | :---------------------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
-|  <img src="Magisk.png">  |        **Magisk : The Magic Mask for Android**        | [Gitlab](https://github.com/topjohnwu/Magisk) | [Website](https://github.com/topjohnwu/Magisk) |
-| <img src="KernelSU.png"> | **KernelSU : Kernel Based Root Solution for Android** |  [Github](https://github.com/tiann/KernelSU)  |        [Website](https://kernelsu.org)         |
-|  <img src="APatch.png">  | **APatch : The Patching of Android Kernel & System**  |  [Github](https://github.com/bmax121/APatch)  |  [Website](https://github.com/bmax121/APatch)  |
+|           Icon           |                         Name                          |                    Website                     |                    Github                     |                         Download                         |
+| :----------------------: | :---------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :------------------------------------------------------: |
+|  <img src="Magisk.png">  |        **Magisk : The Magic Mask for Android**        | [Website](https://github.com/topjohnwu/Magisk) | [Github](https://github.com/topjohnwu/Magisk) | [Download](https://github.com/topjohnwu/Magisk/releases) |
+| <img src="KernelSU.png"> | **KernelSU : Kernel Based Root Solution for Android** |        [Website](https://kernelsu.org)         |  [Github](https://github.com/tiann/KernelSU)  |        [Download](https://kernelsu.org/download)         |
+|  <img src="APatch.png">  | **APatch : The Patching of Android Kernel & System**  |  [Website](https://github.com/bmax121/APatch)  |  [Github](https://github.com/bmax121/APatch)  |  [Download](https://github.com/bmax121/APatch/releases)  |
