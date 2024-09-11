@@ -217,7 +217,7 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 |         <img src="https://avatars.githubusercontent.com/u/37493898?s=200&v=4">         |   **Pitch Black Recovery Project**   | [Github](https://github.com/PitchBlackRecoveryProject) |  [Website](https://pitchblackrecovery.com/)   |
 |         <img src="https://avatars.githubusercontent.com/u/67479316?s=200&v=4">         |        **Pterodon Recovery**         |     [Github](https://github.com/PterodonRecovery)      |
 |         <img src="https://avatars.githubusercontent.com/u/35895496?s=200&v=4">         |     **RedWolf Recovery Project**     |      [Github](https://github.com/RedWolfRecovery)      | [Website](https://redwolfrecovery.github.io/) |
-|                                  <img src="shrp.png">                                  | **SHRP – Sky Hawk Recovery Project** |           [Github](https://github.com/SHRP)            | [Website](https://skyhawkrecovery.github.io/) |
+|         <img src="https://avatars.githubusercontent.com/u/66643114?s=200&v=4">         | **SHRP – Sky Hawk Recovery Project** |           [Github](https://github.com/SHRP)            | [Website](https://skyhawkrecovery.github.io/) |
 |                                  <img src="twrp.png">                                  | **TWRP – Team Win Recovery Project** |          [Github](https://github.com/TeamWin)          |          [Website](https://twrp.me/)          |
 
 ## Root / SuperUser Tools
