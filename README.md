@@ -223,8 +223,8 @@ Here some ROMs that I recommend, these are the best ones. Based on various facto
 
 ## Root / SuperUser Tools
 
-|           Icon           |                         Name                          |                    Website                     |                    Github                     |                         Download                         |
-| :----------------------: | :---------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :------------------------------------------------------: |
-|  <img src="Magisk.png">  |        **Magisk : The Magic Mask for Android**        | [Website](https://github.com/topjohnwu/Magisk) | [Github](https://github.com/topjohnwu/Magisk) | [Download](https://github.com/topjohnwu/Magisk/releases) |
-| <img src="KernelSU.png"> | **KernelSU : Kernel Based Root Solution for Android** |        [Website](https://kernelsu.org)         |  [Github](https://github.com/tiann/KernelSU)  |        [Download](https://kernelsu.org/download)         |
-|  <img src="APatch.png">  | **APatch : The Patching of Android Kernel & System**  |  [Website](https://github.com/bmax121/APatch)  |  [Github](https://github.com/bmax121/APatch)  |  [Download](https://github.com/bmax121/APatch/releases)  |
+|           Icon           |                         Name                          |                   Website                    |                     Github                     |                        Download                        |
+| :----------------------: | :---------------------------------------------------: | :------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: | -------------------------------------------------------- |
+|  <img src="Magisk.png">  |        **Magisk : The Magic Mask for Android**        |                    Active                    | [Website](https://github.com/topjohnwu/Magisk) |     [Github](https://github.com/topjohnwu/Magisk)      | [Download](https://github.com/topjohnwu/Magisk/releases) |
+| <img src="KernelSU.png"> | **KernelSU : Kernel Based Root Solution for Android** |                    Active                    |        [Website](https://kernelsu.org)         |      [Github](https://github.com/tiann/KernelSU)       | [Download](https://kernelsu.org/download)                |
+|  <img src="APatch.png">  | **APatch : The Patching of Android Kernel & System**  | [Website](https://github.com/bmax121/APatch) |  [Github](https://github.com/bmax121/APatch)   | [Download](https://github.com/bmax121/APatch/releases) |
