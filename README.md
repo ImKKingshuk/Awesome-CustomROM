@@ -1,7 +1,5 @@
 <h1 align="center">Awesome CustomROM</h1>
 
-<br><br>
-
 <h3 align="center">Sponsored</h3>
 <p align="center">
   <a href="https://zytor.vercel.app">
